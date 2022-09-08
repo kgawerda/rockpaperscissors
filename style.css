@@ -43,6 +43,10 @@ body{
     margin: 20px;
 }
 
+#rock, #paper, #scissors{
+    cursor: pointer;
+}
+
 .currentScore{
     padding-left: 40px;
     padding-right: 40px;
